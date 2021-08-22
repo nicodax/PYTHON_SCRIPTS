@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Développement Informatique II",
+        "code": "T201",
+        "cote": "",
+        "ECTS": "5",
+        "students": [
+            "Jonathan",
+            "Nicolas",
+            "Bruno",
+            "Noémie",
+            "Fabre",
+            "Aurore",
+            "Alix"
+        ]
+    },
+    {
+        "name": "Administration Systèmes et Réseaux I",
+        "code": "T205",
+        "cote": "",
+        "ECTS": "5",
+        "students": [
+            "Arnaud",
+            "Nicolas",
+            "Bruno",
+            "Noémie",
+            "Fabre",
+            "Aurore",
+            "Valentine"
+        ]
+    },
+    {
+        "name": "Administration Systèmes et Réseaux II",
+        "code": "T206",
+        "cote": "",
+        "ECTS": "5",
+        "students": [
+            "Jonathan",
+            "Nicolas",
+            "Bruno",
+            "Noémie",
+            "Fabre",
+            "Stijn",
+            "Alix"
+        ]
+    },
+    {
+        "name": "Développement Informatique III",
+        "code": "T211",
+        "cote": "",
+        "ECTS": "5",
+        "students": [
+            "Jonathan",
+            "Maxime",
+            "Bruno",
+            "Noémie",
+            "Régina",
+            "Aurore",
+            "Alix"
+        ]
+    },
+    {
+        "name": "Nicolas Daxhelet",
+        "cours 1": "Développement Informatique II",
+        "cours 2": "Administration Systèmes et Réseaux II"
+    },
+    {
+        "name": "Placeholder student",
+        "cours 1": "Développement Informatique II",
+        "cours 2": "Développement Informatique III"
+    },
+    {
+        "name": "Placeholder professor",
+        "titulaire": "Développement Informatique II"
+    },
+    {
+        "name": "EPHEC implantation LLN",
+        "adresse": "Boulevard du Triomphe 173 1160 Auderghem"
+    },
+    {
+        "name": "EPHEC implantation Auderghem",
+        "adresse": "Avenue du Ciseau 15 1348 Ottignies-Louvain-la-Neuve"
+    }
+]
